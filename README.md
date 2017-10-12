@@ -10,9 +10,8 @@ React 拥有较高的性能，代码逻辑非常简单，越来越多的人已�
 ## 技术环境
 <p>开发工具Atom + 大量插件（eslint,gitplus,react.....) + github </p>
 <p>1、打包 es6 + Webpack + less +sass </p>
-<p>2、使用了HapiJs作为模拟server，前端开发和后端彻底分离，后期集成时，使用了自己开发的代理服务器调用真正的API </p>
-<p>3、运行库 React +  React-router</p>
-<p>4、布局完全用flex </p>
+<p>2、运行库 React +  React-router</p>
+<p>3、布局完全用flex </p>
 
 ## 个人的一点体会
 <p>1、使用Flex布局会大大降低CSS的难度</p>
