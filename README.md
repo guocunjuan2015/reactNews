@@ -13,6 +13,7 @@ React 拥有较高的性能，代码逻辑非常简单，越来越多的人已�
 <p>2、运行库 React +  React-router</p>
 <p>3、布局完全用flex </p>
 <p>4、利用react-touch-loader实现上拉刷新下拉加载</p>
+<p>5、利用react-responsive适合移动端的页面开发</p>
 
 ## 个人的一点体会
 <p>1、使用Flex布局会大大降低CSS的难度</p>
